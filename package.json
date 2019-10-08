@@ -229,6 +229,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.1",
+    "aws-sdk": "^2.545.0",
     "connected-react-router": "^6.3.2",
     "core-js": "2",
     "devtron": "^1.4.0",
